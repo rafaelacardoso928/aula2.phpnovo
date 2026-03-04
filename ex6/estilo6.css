@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #e0fbfc;
+}
+
+.container {
+  background-color: #ffffff;
+  width: 380px;
+  margin: 70px auto;
+  padding: 30px;
+  border-radius: 20px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+  text-align: center;
+}
+
+h2 {
+  color: #2a9d8f;
+  margin-bottom: 25px;
+}
+
+.contador {
+  background-color: #fff3b0;
+  padding: 15px;
+  border-radius: 12px;
+  font-size: 22px;
+  font-weight: bold;
+  letter-spacing: 3px;
+}

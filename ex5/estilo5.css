@@ -1,0 +1,34 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f3f0ff;
+}
+
+.container {
+  background-color: #ffffff;
+  width: 380px;
+  margin: 70px auto;
+  padding: 30px;
+  border-radius: 20px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+  text-align: center;
+}
+
+h2 {
+  color: #6d597a;
+  margin-bottom: 20px;
+}
+
+.nota {
+  background-color: #bde0fe;
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+  font-weight: bold;
+}
+
+.resultado {
+  background-color: #ffc8dd;
+  padding: 15px;
+  border-radius: 12px;
+  font-weight: bold;
+}
