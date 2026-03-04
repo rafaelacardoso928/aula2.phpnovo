@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f1faee; /* verde menta bem claro */
+}
+
+.container {
+  background-color: #ffffff;
+  width: 380px;
+  margin: 70px auto;
+  padding: 30px;
+  border-radius: 18px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+  text-align: center;
+}
+
+h2 {
+  color: #2a9d8f; /* verde pastel */
+  margin-bottom: 20px;
+}
+
+.idade {
+  background-color: #ffe5d9; /* pêssego pastel */
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+.resultado {
+  background-color: #caffbf; /* verde pastel */
+  padding: 15px;
+  border-radius: 12px;
+  font-weight: bold;
+}

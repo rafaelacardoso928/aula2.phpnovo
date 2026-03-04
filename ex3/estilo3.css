@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f3f0ff; /* lavanda bem claro */
+}
+
+.container {
+  background-color: #ffffff;
+  width: 380px;
+  margin: 70px auto;
+  padding: 30px;
+  border-radius: 18px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+  text-align: center;
+}
+
+h2 {
+  color: #5e548e; /* roxo suave */
+  margin-bottom: 25px;
+}
+
+.resultado {
+  background-color: #d0f4ff; /* azul pastel */
+  padding: 15px;
+  border-radius: 12px;
+  font-weight: bold;
+  color: #3a0ca3;
+}
